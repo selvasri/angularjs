@@ -1,2 +1,2 @@
-# angularjs-coursera
-repo for angularjs-coursera
+# angularjs
+repo for angularjs practise
