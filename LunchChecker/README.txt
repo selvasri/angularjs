@@ -1,1 +1,1 @@
-module 1 assignment solution
+AngularJS sample - LuchChecker
