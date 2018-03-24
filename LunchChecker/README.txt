@@ -1,1 +1,1 @@
-AngularJS sample - LuchChecker
+AngularJS sample - LuchChecker app
